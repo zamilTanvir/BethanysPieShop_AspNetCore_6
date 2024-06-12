@@ -1,0 +1,813 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BethanysPieShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BethanysPieShop.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logo_horiz-white.png",
+      "PackagePath": "staticwebassets\\Images\\bethanys-pie-shop-logo_horiz-white.png"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logomark.png",
+      "PackagePath": "staticwebassets\\Images\\bethanys-pie-shop-logomark.png"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\Images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel1.jpg"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\Images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel2.jpg"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\Images\\carousel3.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel3.jpg"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\Images\\contact\\contact.jpg",
+      "PackagePath": "staticwebassets\\Images\\contact\\contact.jpg"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery-validation-sri.json"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_az.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_da.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_de.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_el.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es_AR.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es_PE.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_et.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_he.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_id.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_is.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_it.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_my.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_no.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_si.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_th.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_de.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_es_CL.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_it.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\1.WORKSHOP\\Asp.Net\\Projects\\ASP.NetCore6\\FULL_WORKING_PROJECT\\BethanysPieShop\\BethanysPieShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BethanysPieShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BethanysPieShop.props",
+      "PackagePath": "build\\BethanysPieShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BethanysPieShop.props",
+      "PackagePath": "buildMultiTargeting\\BethanysPieShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BethanysPieShop.props",
+      "PackagePath": "buildTransitive\\BethanysPieShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

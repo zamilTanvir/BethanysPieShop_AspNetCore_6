@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BethanysPieShop
+build_property.RootNamespace = BethanysPieShop
+build_property.ProjectDir = F:\1.WORKSHOP\Asp.Net\Projects\ASP.NetCore6\FULL_WORKING_PROJECT\BethanysPieShop\BethanysPieShop\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\1.WORKSHOP\Asp.Net\Projects\ASP.NetCore6\FULL_WORKING_PROJECT\BethanysPieShop\BethanysPieShop
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Pages/App/AppLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwXEFwcExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Pages/App/AppRouter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwXEFwcFJvdXRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Pages/App/PieCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwXFBpZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Pages/App/SearchBlazor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwXFNlYXJjaEJsYXpvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Pages/App/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Pages/App/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXRDb21wbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Pie/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlNZW51XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcHBpbmdDYXJ0U3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaWVDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/1.WORKSHOP/Asp.Net/Projects/ASP.NetCore6/FULL_WORKING_PROJECT/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h6c20ygmcm
