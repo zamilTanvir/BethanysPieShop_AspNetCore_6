@@ -22,23 +22,21 @@ namespace BethanysPieShop.Models
 
             order.OrderTotal = _shoppingCart.GetShoppingCartTotal();
 
-            _bethanysPieShopDbContext.Orders.Add(order);
-            _bethanysPieShopDbContext.SaveChanges();
-
+            order.OrderDetails = new List<OrderDetail>();
             
-
             foreach (var item in items)
             {
                 var orderDetails = new OrderDetail
                 {
-                    OrderId = order.OrderId,
+                    PieId = item.Pie.PieId,
                     Amount = item.Amount,
                     Price = item.Pie?.Price
                 };
-                _bethanysPieShopDbContext.OrderDetails.Add(orderDetails);
+                order.OrderDetails.Add(orderDetails);
             }
 
-            _bethanysPieShopDbContext.SaveChanges(true);
+            _bethanysPieShopDbContext.Orders.Add(order);
+            _bethanysPieShopDbContext.SaveChanges();
             
         }
     }

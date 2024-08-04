@@ -7,7 +7,7 @@ namespace BethanysPieShop.Models
     {
         private readonly BethanysPieShopDbContext _bethanysPieShopDbContext;
         public string? ShoppingCartId { get; set; }
-        public List<ShoppingCartItem> ShoppingCartItems { get; set; }
+        public List<ShoppingCartItem> ShoppingCartItems { get; set; } = default!;
 
         public ShoppingCart(BethanysPieShopDbContext bethanysPieShopDbContext)
         {
@@ -18,7 +18,7 @@ namespace BethanysPieShop.Models
         {
             ISession? session = services.GetRequiredService<IHttpContextAccessor>()?.
                 HttpContext?.Session;
-            var context = services.GetService<BethanysPieShopDbContext>();
+            var context = services.GetRequiredService<BethanysPieShopDbContext>();
             var cartId = session?.GetString("CartId") ?? Guid.NewGuid().ToString();
             session?.SetString("CartId", cartId);
             return new ShoppingCart(context) { ShoppingCartId = cartId };
@@ -27,7 +27,7 @@ namespace BethanysPieShop.Models
         public void AddToCart(Pie pie)
         {
             var shoppingCartItem = _bethanysPieShopDbContext.ShoppingCartItems.
-                FirstOrDefault(s => s.Pie == pie && ShoppingCartId == ShoppingCartId);
+                SingleOrDefault(s => s.Pie.PieId == pie.PieId && s.ShoppingCartId == ShoppingCartId);
 
             if(shoppingCartItem == null)
             {
@@ -87,7 +87,7 @@ namespace BethanysPieShop.Models
             _bethanysPieShopDbContext.SaveChanges();
         }
 
-        public decimal? GetShoppingCartTotal()
+        public decimal GetShoppingCartTotal()
         {
             var total = _bethanysPieShopDbContext.ShoppingCartItems.
                 Where(s=> s.ShoppingCartId == ShoppingCartId).Select

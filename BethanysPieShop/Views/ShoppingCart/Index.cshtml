@@ -19,7 +19,7 @@
                             <h5 class="card-text">@line.Amount * @line.Pie.Name</h5>
                             <div class="d-flex justify-content-between">
                                 <h6>@line.Pie.ShortDescription</h6>
-                                <h2>@line.Pie.Price.ToString()</h2>
+                                <h2>@line.Pie.Price.ToString("c")</h2>
                             </div>
                         </div>
                     </div>
@@ -31,7 +31,7 @@
         <div class="card shopping-cart-card p-3">
             <div class="row">
                 <h4 class="col">Total:</h4>
-                <h4 class="col text-end">@Model.ShoppingCartTotal.ToString()</h4>
+                <h4 class="col text-end">@Model.ShoppingCartTotal.ToString("c")</h4>
             </div>
             <hr />
             <div class="text-center d-grid">
