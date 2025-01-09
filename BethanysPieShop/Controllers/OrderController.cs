@@ -34,7 +34,8 @@ namespace BethanysPieShop.Controllers
             if(ModelState.IsValid)
             {
                 _orderRepository.CreateOrder(order);
-                RedirectToAction("CheckoutComplete");
+                _shoppingCart.ClearCart();
+                return RedirectToAction("CheckoutComplete");
             }
             return View(order);
 
